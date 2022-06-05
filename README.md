@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi 👋 I'M 
 
 <!--
 **kkung-He/kkung-He** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## 📬 Contacts
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style-flat-square&logo=Naver&logoColor=white&link=mailto:kkunghe.d@gmail.com)](mailto:kkunghe.d@gmail.com) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style-flat-square&logo=Gmail&logoColor=white&link=mailto:resqpa79@gmail.com)](mailto:resqpa79@gmail.com) <a target="_blank" href="https://sudole.tistory.com/"><img src="https://img.shields.io/badge/Tech blog-404254?style=flat-square&logo=Devpost&logoColor=white&link=https://sudole.tistory.com/"/>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style-flat-square&logo=Gmail&logoColor=white&link=mailto:kkunghe.d@gmail.com)](mailto:resqpa79@gmail.com) <a target="_blank" href="https://sudole.tistory.com/"><img src="https://img.shields.io/badge/Tech blog-404254?style=flat-square&logo=Devpost&logoColor=white&link=https://sudole.tistory.com/"/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudole&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkunghe.d&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudole&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
