@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=404254&height=180&section=header&text=kkung-He&fontColor=ffffff&fontSize=42&desc=Kwon%20hyo-eun&descSize=20&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=kkung-He&fontColor=ffffff&fontSize=42&desc=Kwon%20hyo-eun&descSize=20&animation=fadeIn)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsudole%2Fhit-counter&count_bg=%233795EA&title_bg=%23777171&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  = "https://img.shields.io/badge/Flutter-47B5FF?style=flat&logo=Flutter&logoColor=white"/> 
  <img alt = "
 
-![CSharp](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-47B5FF?style=flat-square&logo=cplusplus&logoColor=white) ![Flutter](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=flutter&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
